@@ -1,0 +1,23 @@
+# Log Files
+*.log
+
+*.swh
+*.swi
+*.swj
+*.swk
+*.swo
+*.swp
+*.swn
+
+# compiled output
+/www
+/dist
+/tmp
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+
+testem.log
